@@ -199,78 +199,61 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahikhalif&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Abdullahi Khalif" /></a> </p>
 
 [![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Some My Repositories </h3></summary>
 
 ----
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	  	<a href="https://https://github.com/AbdullahiKhalif/coffee-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=coffee-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/Instagram-clone">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Instagram-Clone&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/Blog-Post-FullStack">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Blog-Post-FullStack&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/AbdullahiKhalif/Blogger-website-react">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repoBlogger-website-react=&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/AbdullahiKhalif/Ecommerce-React">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Ecommerce-React&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/Quran-Player-Web">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Quran-Player-Web&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/Welcome-To-JustUni-Demo-App">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaikhalif&repo=Welcome-To-JustUni-Demo-App&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/InShort-Quizzess">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=InShort-Quizzess&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/Todo-App-Flutter">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Todo-App-Flutter&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/attendance-system-react">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=attendance-system-react&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/mss-somali">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=mss-somali&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/BMI-Calculator-App-flutter">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=BMI-Calculator-App-flutter&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AbdullahiKhalif/Quizzler-Flutter">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Quizzler-Flutter&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+	
   </p>
 </div>
 </details>
