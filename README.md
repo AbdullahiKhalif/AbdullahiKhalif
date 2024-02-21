@@ -29,7 +29,7 @@
 	<a href="abdullahi.a.khaif@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/abdullahikhalif"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.link/c2rwb3"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/abdullahikhalifa/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg?style=plastic&logo=linkedin&logoColor=blue" alt="linkedin"/></a>
 </p>
 
 
