@@ -81,7 +81,7 @@
    </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/angular%20-%23F7DF1E.svg?style=plastic&logo=angular&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/nextjs?style=plastic&logo=angular&logoColor=black">
    </a>
  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
