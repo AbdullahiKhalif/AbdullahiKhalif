@@ -186,22 +186,13 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahikhalif&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Abdullahi Khalif" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@Abdullahi Khalif's Holopin board](https://holopin.io/api/user/board?user=abdullahikhalif)](https://holopin.io/@7oskaa)
 	
 </details>
 	
@@ -217,23 +208,14 @@
 	<a href="https://github.com/AbdullahiKhalif/Instagram-clone">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Instagram-Clone&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/AbdullahiKhalif/Blog-Post-FullStack">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Blog-Post-FullStack&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/AbdullahiKhalif/Blogger-website-react">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repoBlogger-website-react=&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
     	<a href="https://github.com/AbdullahiKhalif/Ecommerce-React">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Ecommerce-React&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/AbdullahiKhalif/Quran-Player-Web">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=Quran-Player-Web&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/AbdullahiKhalif/Welcome-To-JustUni-Demo-App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullaikhalif&repo=Welcome-To-JustUni-Demo-App&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="username=abdullaikhalif&repo=Welcome-To-JustUni-Demo-App&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/AbdullahiKhalif/InShort-Quizzess">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahikhalif&repo=InShort-Quizzess&theme=tokyonight" alt="GitHub Stats" />
